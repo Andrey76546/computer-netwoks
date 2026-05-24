@@ -107,7 +107,8 @@ prompt $d
 Результат
 ✨ 📅 Результат: вместо длинного пути командная строка теперь показывает текущую системную дату! 🚀 ✨
 🖥 Скриншоты выполнения
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3eb5e23b-36d3-4625-9a04-4d26f49ac7ed" />
+<img width="1280" height="720" alt="photo_2026-05-25_02-32-02" src="https://github.com/user-attachments/assets/0e0d91c9-b417-48f0-acc5-4ec9d88f3cb1" />
+
 📌 Справочник примененных команд
 
 | Команда | Описание действия |
