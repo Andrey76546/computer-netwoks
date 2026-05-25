@@ -1,4 +1,4 @@
-<img width="1320" height="2163" alt="2" src="https://github.com/user-attachments/assets/09a65b17-7056-4afa-a9cd-04355f1bdc2b" />
+
 <img width="1319" height="781" alt="1" src="https://github.com/user-attachments/assets/1561b96a-d80d-4f95-8fee-f1885917d09c" />
 📑 Отчет по лабораторной работе №1
 Тема: Базовые команды Windows (cmd)
