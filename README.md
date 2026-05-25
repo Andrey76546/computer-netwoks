@@ -36,10 +36,9 @@
 | 13 | Скопировать all.txt в A1 | 🟢 Выполнено |
 | 14 | Удалить каталоги с буквой А или цифрой 2 | 🟢 Выполнено |
 | 15 | Изменить строку приглашения на системную дату | 🟢 Выполнено |
-Crhby fhfuf <img width="1319" height="781" alt="1" src="https://github.com/user-attachments/assets/1561b96a-d80d-4f95-8fee-f1885917d09c" />
 
 ---
-
+<img width="1319" height="781" alt="1" src="https://github.com/user-attachments/assets/1561b96a-d80d-4f95-8fee-f1885917d09c" />
  🛠 Ход выполнения работы (15 шагов)
 
 1️⃣ Шаг 1. Создание дерева каталогов
